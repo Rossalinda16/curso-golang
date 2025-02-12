@@ -1,4 +1,4 @@
-package main
+package main //Exercicio 1
 
 import "fmt"
 
@@ -12,7 +12,7 @@ func main() {
 	}
 }
 
-/*  outra forma de usar o for:
+ /* outra forma de usar o for:
 
 func main() {
 	for i:= 1; i <=10; i++{
