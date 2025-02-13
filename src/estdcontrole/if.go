@@ -4,10 +4,10 @@ import "fmt"
 
 func main() {
 	for i := 1; i <= 10; i++ {
-		if 1%2 == 0 {
-			fmt.Println("Par")
+		if i%2 == 0 {
+			fmt.Println(i, "Este número é Par")
 		} else {
-			fmt.Println("ímpar")
+			fmt.Println(i, "Este número é ímpar")
 		}
 
 	}
