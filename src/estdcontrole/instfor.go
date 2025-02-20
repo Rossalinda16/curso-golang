@@ -1,4 +1,4 @@
-package main //Exercicio 1
+package main //Exercicio 1 - Instrução 
 
 import "fmt"
 
