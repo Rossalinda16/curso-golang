@@ -7,4 +7,8 @@ func main() {
 	x <= 10; x++ { //condição
 		fmt.Println(x) // pós - saida
 	}
+
 }
+//Em Go, o único loop existente é o for. Diferente de outras linguagens que possuem while e do-while, o for em Go pode ser usado de diferentes formas para cobrir todas as necessidades de repetição.
+
+//Existem varios formatos de usar o For

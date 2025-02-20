@@ -18,3 +18,5 @@ func main() {
 		
 	}
 }
+
+//O switch em Go é uma estrutura de controle usada para comparar uma variável contra múltiplos valores de maneira mais limpa e organizada do que usar vários if-else.
