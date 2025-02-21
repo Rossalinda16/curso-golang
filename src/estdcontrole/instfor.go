@@ -1,6 +1,11 @@
-package main //Exercicio 1 - Instrução 
+package main //Exercicio 1 - Instrução
 
 import "fmt"
+
+func main() {
+
+}
+
 
 func main() {
 	numero := 5
@@ -12,7 +17,8 @@ func main() {
 	}
 }
 
- /* outra forma de usar o for:
+ 
+/*outra forma de usar o for:
 
 func main() {
 	for i:= 1; i <=10; i++{
